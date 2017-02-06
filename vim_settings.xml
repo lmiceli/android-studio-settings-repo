@@ -1,0 +1,69 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="false" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/AndroidStudioProjects/inditex-core/app/build.gradle" timestamp="1484300513825">
+        <mark key="'" line="117" column="17" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/inditex-core/app/src/main/java/es/sdos/sdosproject/ui/base/VideoActivity.java" timestamp="1484300536434">
+        <mark key="[" line="29" column="4" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/inditex-core/app/src/main/java/es/sdos/sdosproject/ui/navigation/fragment/SelectStoreFragment.java" timestamp="1484301201886">
+        <mark key="[" line="138" column="2" />
+        <mark key="]" line="114" column="27" />
+        <mark key="." line="114" column="27" />
+        <mark key="^" line="114" column="27" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/inditex-core/app/src/main/java/es/sdos/sdosproject/di/DIManager.java" timestamp="1484292258022">
+        <mark key="[" line="16" column="48" />
+      </file>
+      <file name="/a.regexp" timestamp="1484292882910">
+        <mark key="[" line="0" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="117" column="17" filename="$USER_HOME$/AndroidStudioProjects/inditex-core/app/build.gradle" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="4">
+        <text>public void navigateToCate</text>
+      </register>
+      <register name="-" type="4">
+        <text>public void navigateToCate</text>
+      </register>
+      <register name="/" type="4">
+        <text>butter</text>
+      </register>
+    </registers>
+    <search>
+      <last-search>butter</last-search>
+      <last-offset />
+      <last-pattern>butter</last-pattern>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>butter</entry>
+      </history-search>
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Y</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed U</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
