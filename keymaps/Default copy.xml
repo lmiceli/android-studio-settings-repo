@@ -5,7 +5,9 @@
   <action id="ActivateProjectToolWindow">
     <keyboard-shortcut first-keystroke="alt w" />
   </action>
-  <action id="ActivateTODOToolWindow" />
+  <action id="ActivateTODOToolWindow">
+    <keyboard-shortcut first-keystroke="alt t" />
+  </action>
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
