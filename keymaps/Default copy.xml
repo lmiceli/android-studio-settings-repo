@@ -1,13 +1,12 @@
 <keymap version="1" name="Default copy" parent="$default">
   <action id="ActivateAndroidMonitorToolWindow">
     <keyboard-shortcut first-keystroke="alt 6" />
+    <keyboard-shortcut first-keystroke="alt t" />
   </action>
   <action id="ActivateProjectToolWindow">
     <keyboard-shortcut first-keystroke="alt w" />
   </action>
-  <action id="ActivateTODOToolWindow">
-    <keyboard-shortcut first-keystroke="alt t" />
-  </action>
+  <action id="ActivateTODOToolWindow" />
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
