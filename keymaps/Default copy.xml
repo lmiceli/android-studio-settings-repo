@@ -39,4 +39,10 @@
   <action id="ToggleFullScreen">
     <keyboard-shortcut first-keystroke="alt f11" />
   </action>
+  <action id="ToggleMainMenuAction">
+    <keyboard-shortcut first-keystroke="alt v" />
+  </action>
+  <action id="ViewToolBar">
+    <keyboard-shortcut first-keystroke="alt y" second-keystroke="t" />
+  </action>
 </keymap>
