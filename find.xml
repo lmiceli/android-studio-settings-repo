@@ -1,9 +1,22 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File 'D:\repositories\bitbucket\verse\android\verse-smack\src\main\java\chat\verse\smack\extentions\custom\usersearch\UsersSearchResultIQ.java'" />
-    <option name="defaultScopeName" value="File 'D:\repositories\bitbucket\verse\android\verse-smack\src\main\java\chat\verse\smack\extentions\custom\usersearch\UsersSearchResultIQ.java'" />
+    <option name="customScope" value="File '[app] - ...\app\src\main\java\es\sdos\sdosproject\task\usecases\CallWsInitiateWalletSmsValidationUC.java'" />
+    <option name="defaultScopeName" value="File '[app] - ...\app\src\main\java\es\sdos\sdosproject\task\usecases\CallWsInitiateWalletSmsValidationUC.java'" />
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="File 'D:\repositories\bitbucket\verse\android\verse-smack\src\main\java\chat\verse\smack\extentions\custom\usersearch\UsersSearchResultIQ.java'" />
+    <option name="SEARCH_SCOPE" value="File '[app] - ...\app\src\main\java\es\sdos\sdosproject\task\usecases\CallWsInitiateWalletSmsValidationUC.java'" />
+    <option name="FILE_MASK" value="build.gradle" />
+    <recentFileMasks>
+      <mask>*.properties</mask>
+      <mask>*.html</mask>
+      <mask>*.jsp</mask>
+      <mask>*.xml</mask>
+      <mask>*.java</mask>
+      <mask>*.js</mask>
+      <mask>*.as</mask>
+      <mask>*.css</mask>
+      <mask>*.mxml</mask>
+      <mask>build.gradle</mask>
+    </recentFileMasks>
   </component>
 </application>
