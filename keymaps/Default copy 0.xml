@@ -45,6 +45,9 @@
   <action id="ToggleFullScreen">
     <keyboard-shortcut first-keystroke="alt f11" />
   </action>
+  <action id="ToggleMainMenuAction">
+    <keyboard-shortcut first-keystroke="alt v" />
+  </action>
   <action id="Vcs.ShowMessageHistory">
     <keyboard-shortcut first-keystroke="ctrl e" />
   </action>
