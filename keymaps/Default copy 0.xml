@@ -54,4 +54,7 @@
   <action id="Vcs.ShowMessageHistory">
     <keyboard-shortcut first-keystroke="ctrl e" />
   </action>
+  <action id="ViewToolBar">
+    <keyboard-shortcut first-keystroke="alt t" />
+  </action>
 </keymap>
