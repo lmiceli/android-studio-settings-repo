@@ -14,4 +14,8 @@
     <EXCLUDED_PACKAGE NAME="org.mockito.internal.util.collections" />
     <EXCLUDED_PACKAGE NAME="org.mockito.internal.verification.VerificationModeFactory" />
   </component>
+  <component name="JavaCodeFoldingSettings">
+    <option name="collapseI18nMessages" value="false" />
+    <option name="COLLAPSE_I18N_MESSAGES" value="false" />
+  </component>
 </application>
