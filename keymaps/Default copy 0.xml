@@ -25,6 +25,9 @@
   <action id="Exit">
     <keyboard-shortcut first-keystroke="shift ctrl q" />
   </action>
+  <action id="OpenEditorInOppositeTabGroup">
+    <keyboard-shortcut first-keystroke="shift ctrl comma" />
+  </action>
   <action id="SonarLint.AnalyzeCurrentEditorFile" />
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="shift alt enter" />
