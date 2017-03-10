@@ -40,6 +40,11 @@
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group value="GoogleLogin.LoginService" is_action="true" action_type="-1" position="8">
+      <path value="root" />
+      <path value="Navigation Bar Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group value="$Cut" is_action="true" action_type="-1" position="7">
       <path value="root" />
       <path value="Main Toolbar" />
@@ -105,6 +110,17 @@
       <path value="Toolbar Run Actions" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group value="ToolbarRunGroup" is_group="true" action_type="-1" position="0">
+      <path value="root" />
+      <path value="Navigation Bar Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ShowProjectStructureSettings" is_action="true" action_type="1" position="1">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <path value="MainToolBarSettings" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group value="androidAddToISuite" is_action="true" action_type="1" position="1">
       <path value="root" />
       <path value="Editor Popup Menu" />
@@ -167,6 +183,11 @@
       <path value="Run Configurations" />
       <path value="RunContextGroup" />
       <path value="group.Add to pattern suite" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ToolbarRunGroup" is_group="true" action_type="1" position="1">
+      <path value="root" />
+      <path value="Navigation Bar Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="Android.RunLayoutInspector" is_action="true" action_type="1" position="3">
