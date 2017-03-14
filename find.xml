@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File 'D:\repositories\bitbucket\verse\android\verse-smack\src\main\java\chat\verse\smack\extentions\custom\usersearch\UsersSearchResultIQ.java'" />
-    <option name="defaultScopeName" value="File 'D:\repositories\bitbucket\verse\android\verse-smack\src\main\java\chat\verse\smack\extentions\custom\usersearch\UsersSearchResultIQ.java'" />
+    <option name="customScope" value="Project 'inditex-core'" />
+    <option name="defaultScopeName" value="Project 'inditex-core'" />
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="File 'D:\repositories\bitbucket\verse\android\verse-smack\src\main\java\chat\verse\smack\extentions\custom\usersearch\UsersSearchResultIQ.java'" />
+    <option name="SEARCH_SCOPE" value="Project 'inditex-core'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
