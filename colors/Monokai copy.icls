@@ -1,11 +1,4 @@
 <scheme name="Monokai copy" version="142" parent_scheme="Default">
-  <metaInfo>
-    <property name="created">2017-06-06T14:36:52</property>
-    <property name="ide">AndroidStudio</property>
-    <property name="ideVersion">2.3.2.0</property>
-    <property name="modified">2017-06-06T14:37:52</property>
-    <property name="originalScheme">Monokai</property>
-  </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
   <option name="EDITOR_FONT_SIZE" value="16" />
   <option name="CONSOLE_FONT_NAME" value="Monospaced" />
@@ -454,6 +447,12 @@
         <option name="EFFECT_COLOR" value="f49810" />
         <option name="ERROR_STRIPE_COLOR" value="f49810" />
         <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="GROOVY_KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="3164d5" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="HYPERLINK_ATTRIBUTES">
