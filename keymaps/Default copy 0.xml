@@ -15,6 +15,9 @@
   <action id="AndroidConnectDebuggerAction">
     <keyboard-shortcut first-keystroke="alt y" second-keystroke="d" />
   </action>
+  <action id="Annotate">
+    <keyboard-shortcut first-keystroke="alt y" second-keystroke="a" />
+  </action>
   <action id="Back">
     <mouse-shortcut keystroke="button4" />
     <keyboard-shortcut first-keystroke="alt left" />
