@@ -9,4 +9,14 @@
       <option name="GROOVY_STATEMENT" value="true" />
     </context>
   </template>
+  <template name="viewLoading" value="if (getActivity() != null) {&#10;      if (loading) {&#10;        loadingView.setVisibility(View.VISIBLE);&#10;      } else {&#10;        loadingView.setVisibility(View.GONE);&#10;      }&#10;    }" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="viewErrorMsg" value="if (getActivity() != null) {&#10;  DialogUtils.createOkDialog(getActivity(), message, false, null)&#10;      .show();&#10;}" toReformat="true" toShortenFQNames="true" useStaticImport="true">
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
 </templateSet>
